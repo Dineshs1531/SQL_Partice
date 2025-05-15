@@ -1,4 +1,4 @@
-# SQL_Partice
+# SQL_Practice
 
 This repository contains a collection of SQL practice questions and their solutions. It is designed to help developers, students, and data enthusiasts improve their SQL skills by working through practical examples and queries.
 
